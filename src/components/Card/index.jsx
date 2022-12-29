@@ -14,8 +14,8 @@ const Card = () =>{
                 </div>
             </UserInfo>
             <PostInfo>
-            <h4>Projeto para curso de HTML e CSS</h4>
-            <p>Projeto feito o curso de html r css no bootcamp dio do global avanade... <strong>Saiba mais</strong></p>
+                <h4>Projeto para curso de HTML e CSS</h4>
+                <p>Projeto feito o curso de html r css no bootcamp dio do global avanade... <strong>Saiba mais</strong></p>
             </PostInfo>
             <HasInfo>
                 <h4>#HTML #CSS #Javascript</h4>

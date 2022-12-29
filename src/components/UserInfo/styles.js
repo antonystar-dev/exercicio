@@ -20,7 +20,7 @@ export const NameText = styled.div`
         color: #FFF;
 `
 
-export const Progress = styled.img`
+export const Progress = styled.div`
 width: 180px;
 height: 6px;
 background-color:#fff;
